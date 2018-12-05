@@ -32,7 +32,7 @@ public class Prog1{
         System.out.print(number[i]+" ");
       }
       if (pov==0)
-      System.out.println("Unique")
+      System.out.println("Unique");
 }
 
 }
